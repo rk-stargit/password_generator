@@ -149,7 +149,7 @@ h1 {
   appearance: none;
   width: 20px;
   height: 20px;
-  border: 1px solid var(--colorDark1);
+  border: 1px solid var(--colorLight2);
   cursor: pointer;
   position: relative;
   border-radius: 0.35rem;
